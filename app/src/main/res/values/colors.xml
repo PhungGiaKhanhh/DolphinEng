@@ -5,4 +5,6 @@
     <color name="colorAccent">#D81B60</color>
     <color name="user_message_color">#FFFDFD</color>
     <color name="bot_message_color">#03A9F4</color>
+    <color name="lavender">#8692f7</color>
+
 </resources>

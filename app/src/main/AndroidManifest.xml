@@ -16,9 +16,17 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".activity.SignupActivity2"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
+
+
+        <activity android:name=".activity.QuizActivity"></activity>
+        <activity android:name=".activity.SelectUnitActivity"></activity>
+        <activity android:name=".activity.ResultActivity"></activity>
+        <activity android:name=".activity.MainActivity"
+            android:exported="false"></activity>
+        <activity android:name=".activity.SignupActivity"></activity>
+
+
+
 
 
 
@@ -26,12 +34,11 @@
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
 
-        <activity android:name=".activity.TestDoneActivity" />
-        <activity android:name=".activity.ScreenSlidePagerActivity" />
+
         <activity android:name=".activity.ChatActivity"/>
 
         <activity
-            android:name=".activity.MainActivity"
+            android:name=".activity.LoginActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -39,9 +46,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".activity.VocabularyItemActivity"
-            android:parentActivityName=".activity.MainActivity" />
 
         <provider
             android:name="com.facebook.FacebookContentProvider"

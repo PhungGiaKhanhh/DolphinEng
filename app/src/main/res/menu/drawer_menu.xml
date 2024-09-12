@@ -6,24 +6,24 @@
         <item
             android:id="@+id/nav_vocabulary"
             android:icon="@drawable/ic_vocabulary"
-            android:title="Từ Vựng" />
+            android:title="Vocabulary" />
         <item android:id="@+id/nav_learnalphabet"
             android:icon="@drawable/vocabulary"
-            android:title="Học Bảng Chữ Cái"/>
+            android:title="Alphabet"/>
         <item android:id="@+id/nav_test"
             android:icon="@drawable/ic_star"
-            android:title="Bài Kiểm Tra"/>
+            android:title="Quiz Game"/>
         <item android:id="@+id/nav_chat"
             android:icon="@drawable/ic_chat"
             android:title="Dolphin Bot"/>
     </group>
 
-    <item android:title="Cài Đặt">
+    <item android:title="Setting">
         <menu>
 
             <item android:id="@+id/nav_setting"
                 android:icon="@drawable/ic_settings"
-                android:title="Đăng Xuất"/>
+                android:title="Logout"/>
         </menu>
     </item>
 </menu>

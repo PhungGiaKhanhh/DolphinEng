@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- LinearLayout chứa các nút đơn vị -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="DOLPHIN QUIZ"
+            android:textSize="24sp"
+            android:textColor="#FF2196F3"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/unit1_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 1"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/unit2_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 2"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/unit3_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 3"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/unit4_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 4"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/unit5_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 5"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/unit6_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 6"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:id="@+id/unit7_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 7"
+            android:layout_marginBottom="10dp" />
+
+
+
+        <Button
+            android:id="@+id/unit8_button"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:background="@drawable/background_btn_choosek"
+            android:textSize="20sp"
+            android:text="Unit 8" />
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/image_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:layout_marginTop="100dp"
+        android:contentDescription="@string/back_button"
+        android:src="@drawable/ic_back" />
+</RelativeLayout>

@@ -1,0 +1,1326 @@
+[
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_l.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/l.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_tiger.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/tiger.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_baseline_123_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/baseline_123_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_lion.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/lion.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_jeans.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/jeans.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_nav_header.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/menu_drawer_menu.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_icon_google_img.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/icon_google_img.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_baseline_email_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_brain.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/brain.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_vocabulary.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_vocabulary.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_pagebkg.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/pagebkg.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_baseline_email_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_star.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_star.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_email.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/email.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_onion.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/onion.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_matkhau.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/matkhau.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_mushroom.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/mushroom.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_search.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_backgoround2.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/backgoround2.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_vocabulary.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_vocabulary.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_k.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/k.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_email.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_chat.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_chat.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_baseline_123_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/baseline_123_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_play.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/play.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_share.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_share.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_clould.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/clould.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_chat.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_chat.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_back_test.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_back_test.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_vehicle.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/vehicle.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_activity_quiz.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/activity_quiz.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_mineralwater.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/mineralwater.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_time.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_time.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_baseline_email_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_j.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/j.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_vocabulary.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_vocabulary.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_catron.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/catron.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_vocabulary_item.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/vocabulary_item.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_iconfb.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/iconfb.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_email.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/email.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_y.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/y.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_baseline_person_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_baseline_21mp_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/baseline_21mp_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_apple.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/apple.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_vocabulary.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_vocabulary.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_duck.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/duck.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_back.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_m.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/m.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-hdpi_logo.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-hdpi/logo.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_time.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_time.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cocktail.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cocktail.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_matkhau.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/matkhau.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_back_test.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_back_test.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_matkhau.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/matkhau.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_phonebooth.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/phonebooth.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_body.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/body.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_kiwi.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/kiwi.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_nguoi.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/nguoi.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_baseline_person_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/font_montserrat_bold.ttf.flat",
+        "source": "com.example.learnenglish.app-main-21:/font/montserrat_bold.ttf"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_backgoround.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/backgoround.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_settings.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_cakhong.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/cakhong.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_bear.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/bear.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_monkey.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/monkey.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_hotel.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/hotel.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_alphabet.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_alphabet.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_coffee.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/coffee.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_star.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_star.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_activity_select_unit.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/activity_select_unit.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_settings.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_harbor.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/harbor.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_peach.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/peach.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_chili.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/chili.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_back_test.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_back_test.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_melon.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/melon.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cheek.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cheek.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_p.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/p.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_baseline_21mp_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/baseline_21mp_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_back.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_h.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/h.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_settings.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_watermelon.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/watermelon.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_baseline_lock_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_hair.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/hair.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_papaya.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/papaya.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_juice.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/juice.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_star.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_star.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_background_btn.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/background_btn.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_shoe.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/shoe.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_alphabet.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_alphabet.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cabbage.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cabbage.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_park.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/park.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_background_btn_choose_color.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/background_btn_choose_color.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_lion.jpg.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/lion.jpg"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_zucchini.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/zucchini.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_rainbow.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/rainbow.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_activity_login.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_tshirt.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/tshirt.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_ear.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/ear.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cucumber.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cucumber.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_lavender_border.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/lavender_border.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_baseline_123_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/baseline_123_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_baseline_email_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_star.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_star.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_n.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/n.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_flood.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/flood.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_u.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/u.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_hand.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/hand.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_back.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_baseline_21mp_24.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/baseline_21mp_24.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_nguoi.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/nguoi.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_c.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/c.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_tie.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/tie.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_finger.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/finger.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_lip.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/lip.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_white_background.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/white_background.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_baseline_email_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_elephant.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/elephant.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_bg.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/bg.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_bglogin.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/bglogin.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_shampagne.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/shampagne.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_pub.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/pub.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_eye.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/eye.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_skin.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/skin.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_star.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_star.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_time.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_time.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_custom_button_1.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/custom_button_1.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_background_top.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/background_top.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_back.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_fountain.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/fountain.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_jacket.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/jacket.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_scarf.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/scarf.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_o.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/o.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_socks.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/socks.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_vocabulary.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_vocabulary.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_baseline_lock_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_hat.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/hat.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_custom_edittext.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_carrot.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/carrot.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cauliflower.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cauliflower.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_i.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/i.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_z.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/z.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_baseline_123_24.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/baseline_123_24.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_share.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_pear.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/pear.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_time.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_time.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_wind.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/wind.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_settings.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_chat.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_chat.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_e.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/e.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_tooth.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/tooth.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_share.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_share.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_alphabet.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_alphabet.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_horse.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/horse.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_back_test.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_back_test.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_head.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/head.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_stream_item_vocabulary.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/stream_item_vocabulary.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_star.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_star.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_email.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/email.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cinema.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cinema.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_bird.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/bird.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_milk.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/milk.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_d.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/d.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_background_btn_incorrect.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/background_btn_incorrect.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_baseline_person_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_beer.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/beer.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_t.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/t.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_lychee.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/lychee.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_time.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_time.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_corn.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/corn.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_back.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_grape.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/grape.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_alphabet.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_alphabet.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_stream_item_alphabet.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/stream_item_alphabet.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_matkhau.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/matkhau.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_dress.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/dress.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_fragment_test.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/fragment_test.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_baseline_21mp_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/baseline_21mp_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/font_montserrat_black.ttf.flat",
+        "source": "com.example.learnenglish.app-main-21:/font/montserrat_black.ttf"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_mango.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/mango.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_alphabet.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_alphabet.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_ice.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/ice.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_share.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_share.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_nguoi.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/nguoi.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_search.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_search.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_sweater.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/sweater.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_matkhau.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/matkhau.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_share.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_baseline_email_24.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_email.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/email.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_vocabulary.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_vocabulary.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_streetlight.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/streetlight.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_orange.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/orange.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_matkhau.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/matkhau.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_content_layout.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/content_layout.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_apartment.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/apartment.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_back.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_baseline_person_24.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_nguoi.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/nguoi.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_back.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_back.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_baseline_123_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/baseline_123_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_baseline_21mp_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/baseline_21mp_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_icon_facebook_img.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/icon_facebook_img.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_dog.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/dog.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_star.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_star.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_nguoi.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/nguoi.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_thunder.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/thunder.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_lemon.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/lemon.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_v.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/v.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_pumpkin.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/pumpkin.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_plum.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/plum.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_tomato.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/tomato.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_custom_button_2.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/custom_button_2.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_activity_main.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_baseline_123_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/baseline_123_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_nguoi.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/nguoi.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_s.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/s.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_smoothie.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/smoothie.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_baseline_person_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_bgsignup.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/bgsignup.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_b.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/b.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_arm.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/arm.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_vocabulary.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_vocabulary.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cold.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cold.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_profilebkg.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/profilebkg.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_fragment_learnalphabet.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/fragment_learnalphabet.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_email.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/email.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_background_btn_correct.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/background_btn_correct.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_chicken.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/chicken.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_baseline_lock_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_cup.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/cup.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_baseline_21mp_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/baseline_21mp_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_custom_button_3.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/custom_button_3.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_baseline_lock_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_foot.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/foot.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_w.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/w.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_alphabet.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_alphabet.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_a.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/a.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_baseline_lock_24.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_baseline_email_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_baseline_email_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_sun.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/sun.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_pea.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/pea.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_logo.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_frost.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/frost.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_vocabulary.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/vocabulary.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_time.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_time.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_shirt.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/shirt.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_soda.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/soda.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_back_test.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_back_test.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_loaloa.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/loaloa.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_nguoi.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/nguoi.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_tea.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/tea.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_baseline_lock_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_baseline_lock_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_airport.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/airport.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_q.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/q.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_background_btn_choosek.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/background_btn_choosek.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_pig.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/pig.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_baseline_person_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_email.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/email.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_x.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/x.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_g.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/g.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_ghi_am.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/ghi_am.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_time.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_time.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_share.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_share.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_settings.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_baseline_21mp_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/baseline_21mp_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_alcohol.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/alcohol.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_share.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_share.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_search.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_chat.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_chat.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_matkhau.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/matkhau.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_chat.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_chat.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_f.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/f.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_activity_chat.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_r.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/r.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_catrang.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/catrang.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_ic_back_test.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/ic_back_test.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_storm.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/storm.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxhdpi_ic_chat.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxhdpi/ic_chat.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_back_test.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_back_test.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-mdpi_ic_alphabet.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-mdpi/ic_alphabet.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_bellpepper.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/bellpepper.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_cat.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/cat.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_chat.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_chat.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xhdpi_ic_search.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_shorts.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/shorts.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_mouth.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/mouth.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_neck.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/neck.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_icon_apple_img.png.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/icon_apple_img.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_activity_test_done.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/activity_test_done.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-xxxhdpi_baseline_123_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-xxxhdpi/baseline_123_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable-ldpi_ic_baseline_person_24.png.flat",
+        "source": "com.example.learnenglish.app-pngs-14:/drawable-ldpi/ic_baseline_person_24.png"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/drawable_background_btn_choose.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/drawable/background_btn_choose.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/layout_fragment_vocabulary.xml.flat",
+        "source": "com.example.learnenglish.app-main-21:/layout/fragment_vocabulary.xml"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_banana.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/banana.mp3"
+    },
+    {
+        "merged": "com.example.learnenglish.app-debug-19:/raw_mouse.mp3.flat",
+        "source": "com.example.learnenglish.app-main-21:/raw/mouse.mp3"
+    }
+]
