@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    app:cardBackgroundColor="#FFFFFF"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="148dp"
+        android:layout_margin="20dp">
+
+        <ImageView
+            android:id="@+id/image_item"
+            android:layout_width="150dp"
+            android:layout_height="130dp"
+            android:layout_margin="10dp" />
+
+        <TextView
+            android:id="@+id/textview_Tutienganh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/image_item"
+            android:layout_marginLeft="9dp"
+            android:layout_marginTop="1dp"
+            android:layout_toRightOf="@+id/image_item"
+            android:text="Tu tieng anh"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#03A9F4"/>
+
+        <TextView
+            android:id="@+id/textview_Tutiengviet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textview_Tutienganh"
+            android:layout_alignBottom="@+id/image_item"
+            android:layout_marginLeft="39dp"
+            android:layout_marginBottom="49dp"
+            android:layout_toRightOf="@+id/image_item"
+            android:text="Tu tieng viet"
+            android:textStyle="italic"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/imageButton_sound"
+            android:layout_width="35dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textview_Tutienganh"
+            android:layout_alignLeft="@+id/textview_Tutienganh"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@+id/image_item"
+            android:src="@drawable/loaloa" />
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

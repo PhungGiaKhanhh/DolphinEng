@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group>
+        <item
+            android:id="@+id/nav_vocabulary"
+            android:icon="@drawable/ic_vocabulary"
+            android:title="Từ Vựng" />
+        <item android:id="@+id/nav_learnalphabet"
+            android:icon="@drawable/vocabulary"
+            android:title="Học Bảng Chữ Cái"/>
+        <item android:id="@+id/nav_test"
+            android:icon="@drawable/ic_star"
+            android:title="Bài Kiểm Tra"/>
+        <item android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat"
+            android:title="Dolphin Bot"/>
+    </group>
+
+    <item android:title="Cài Đặt">
+        <menu>
+
+            <item android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_settings"
+                android:title="Đăng Xuất"/>
+        </menu>
+    </item>
+</menu>

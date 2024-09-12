@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dolphin English</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="title_activity_test">testActivity</string>
+    <string name="facebook_app_id">338898916828124</string>
+    <string name="facebook_login_protocol_scheme">fb338898916828124</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01579B</color>
+    <color name="colorPrimaryDark">#0F479C</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="user_message_color">#FFFDFD</color>
+    <color name="bot_message_color">#03A9F4</color>
+</resources>

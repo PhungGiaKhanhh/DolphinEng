@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/backgoround2">
+    <TextView
+        android:id="@+id/textview_ketthuc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kết quả"
+        android:textColor="#F3F3F3"
+        android:gravity="center"
+        android:textSize="50sp"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textview_ketthuc"
+        android:weightSum="3"
+        android:paddingTop="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="2"
+            android:text="Câu Đúng "
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textview_caudung"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear1"
+        android:weightSum="3"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="2"
+            android:text="Câu Sai"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+        <TextView
+            android:id="@+id/textview_causai"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:textColor="#F44336"
+            android:gravity="center"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear2"
+        android:weightSum="3"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="2"
+            android:text="Câu Chưa Trả Lời"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+        <TextView
+            android:id="@+id/textview_chuaTraloi"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:gravity="center"
+            android:textSize="20sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear3"
+        android:weightSum="3"
+        android:layout_marginTop="10dp">
+        <TextView
+            android:textColor="#FFFFFF"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_marginLeft="10dp"
+            android:layout_height="wrap_content"
+            android:text="Tổng điểm"
+            android:textSize="20sp" />
+        <TextView
+            android:id="@+id/textview_tongDiem"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear4"
+        android:layout_marginTop="108dp"
+        android:paddingTop="20dp"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/Button_Choilai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/linear5"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/custom_button_2"
+            android:text="Làm lại"
+            android:textSize="20dp"
+            android:textColor="#03A9F4"/>
+
+        <Button
+            android:id="@+id/Button_Thoat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/custom_button_2"
+            android:text="Thoát"
+            android:textSize="20dp"
+            android:textColor="#03A9F4"/>
+
+    </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/button_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/custom_button_3"
+        android:src="@drawable/backgoround2" />
+
+
+</RelativeLayout>

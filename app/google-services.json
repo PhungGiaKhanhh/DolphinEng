@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799124834107",
+    "project_id": "loginsignup-3e5fc",
+    "storage_bucket": "loginsignup-3e5fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799124834107:android:3141c07d7f1837f2b5591e",
+        "android_client_info": {
+          "package_name": "com.example.learnenglish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1aLGI2GdDb5dbsN4yiovCNNvOyhmV3Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
